@@ -7,35 +7,14 @@ import numpy as np
 import re
 import lda2vec.utils
 
-# %%
+#Depuis \Ruben
+path = 'Avis_Id_TextProcessed'
 
-data = pd.read_csv('Data\Avis_Id_Text.csv',index_col='index')
-
-#%%
-data_theme = pd.read_csv('Data\etudes_avis_dep_theme.csv', delimiter = ';')
-data_theme.replace('nan',np.nan, inplace = True)
-data_theme.dropna(axis = 0, subset = ['url_avis'], inplace = True)
-#%%
-def extract_idAAE(val):
-    idAAE = ''
-    approx = val[58:]
-    for car in approx:
-        if car.isdigit()==True:
-            idAAE += car
-        else:
-            return(int(idAAE))
-
-        
-data_theme['id_AAE']=data_theme['url_avis'].apply(extract_idAAE)
 
 #%%
-
-data['len'] = data.txt_AAE.str.len()
-too_smol = data[data['len'] < 6000].index
-data.drop(too_smol,inplace = True)
-
-#%%
-data_final = data.merge(data_theme, on = ['id_AAE'], how = 'inner')
+data_final = pd.read_csv('data_final.csv')
+data_final.drop(['Unnamed: 0'],axis = 1)
+data_final.drop(['Unnamed: 0.1'],axis = 1)
 
 #%%
 themes=list(np.unique(re.sub("[\(\[].*?[\)\]]", "",
@@ -55,7 +34,7 @@ data_processor.preprocess()
 data_processor.save_data('Avis_Id_TextProcessed.csv')
 
 #%%
-path = 'Avis_Id_TextProcessed.csv'
+
 data_processed = lda2vec.utils.load_preprocessed_data(path)
 
 #%%

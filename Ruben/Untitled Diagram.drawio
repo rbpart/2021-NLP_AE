@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T14:56:54.267Z" agent="5.0 (Windows)" etag="rNEoIznVx41FHf_nwsUk" version="14.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-30T15:02:42.147Z" agent="5.0 (Windows)" etag="PYwFDXPjunZ-HRQqEzce" version="14.5.3" type="github" pages="2">
   <diagram id="zABVOks5kZg5XgSqK8zO" name="Sommaire">
     <mxGraphModel dx="1695" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
         <mxCell id="PaQO9XL9nfgar8EwWLa--0" />
         <mxCell id="PaQO9XL9nfgar8EwWLa--1" parent="PaQO9XL9nfgar8EwWLa--0" />
         <mxCell id="PaQO9XL9nfgar8EwWLa--3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
-          <mxGeometry x="40" y="45" width="720" height="580" as="geometry" />
+          <mxGeometry x="40" y="45" width="720" height="665" as="geometry" />
         </mxCell>
         <mxCell id="doCoevSiR14-2_Gry88B-0" value="&lt;div&gt;Pollution des &lt;br&gt;&lt;/div&gt;&lt;div&gt;eaux&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.barCallout;dx=60;dy=30;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
           <mxGeometry x="60" y="220" width="110" height="90" as="geometry" />
@@ -152,6 +152,42 @@
         </mxCell>
         <mxCell id="szVmI14YxRZ2sVaPwD5k-3" value="Répartition moyenne des enjeux dans la thématique ENERGIE :" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;glass=0;shadow=0;sketch=0;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
           <mxGeometry x="205" y="390" width="360" height="61.71" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-4" value="&lt;div&gt;Pollution des &lt;br&gt;&lt;/div&gt;&lt;div&gt;eaux&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.barCallout;dx=60;dy=30;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="60" y="480" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-5" value="&lt;div&gt;Pollution &lt;br&gt;&lt;/div&gt;&lt;div&gt;des sols&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.barCallout;dx=52;dy=30;fillColor=#F2931E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="210" y="480" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-6" value="&lt;div&gt;Gaz a effet&lt;/div&gt;&lt;div&gt; de serre&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.barCallout;dx=40;dy=30;fillColor=#AE4132;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="320" y="480" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-7" value="&lt;div&gt;Artificialisation &lt;br&gt;&lt;/div&gt;&lt;div&gt;des sols&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.barCallout;dx=100;dy=30;fillColor=#23445D;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="500" y="480" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-8" value="Autre" style="html=1;shape=mxgraph.infographic.barCallout;dx=70;dy=30;fillColor=#12AAB5;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="620" y="480" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-9" value="30%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=#10739E;strokeWidth=6;fontSize=16;align=center;fontStyle=1;fillColor=none;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="100" y="575" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-10" value="15%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=#F2931E;strokeWidth=6;fontSize=16;align=center;fontStyle=1;fillColor=none;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="240" y="575" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-11" value="35%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=#AE4132;strokeWidth=6;fontSize=16;align=center;fontStyle=1;fillColor=none;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="340" y="575" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-12" value="10%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=#23445D;strokeWidth=6;fontSize=16;align=center;fontStyle=1;fillColor=none;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="580" y="572.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-13" value="10%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=#12AAB5;strokeWidth=6;fontSize=16;align=center;fontStyle=1;fillColor=none;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="670" y="577.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PaQO9XL9nfgar8EwWLa--1" source="szVmI14YxRZ2sVaPwD5k-12" target="szVmI14YxRZ2sVaPwD5k-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-15" value="L&#39;enjeu &quot;Gaz a effet de serre&quot; est sous-représenté dans l&#39;étude en entrée" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;glass=0;shadow=0;sketch=0;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="205" y="640" width="360" height="61.71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

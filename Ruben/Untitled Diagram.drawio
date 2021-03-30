@@ -1,1 +1,159 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T08:36:15.010Z" agent="5.0 (Windows)" version="14.5.3" etag="UlHQPgH12xCzdpN-1jSM" type="github"><diagram id="zABVOks5kZg5XgSqK8zO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-30T14:56:54.267Z" agent="5.0 (Windows)" etag="rNEoIznVx41FHf_nwsUk" version="14.5.3" type="github" pages="2">
+  <diagram id="zABVOks5kZg5XgSqK8zO" name="Sommaire">
+    <mxGraphModel dx="1695" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0gm0C9cwSxgxJO-yXUj9-1" value="&lt;blockquote&gt;&lt;div style=&quot;font-size: 19px&quot; align=&quot;left&quot;&gt;&lt;b&gt;Sommaire Augmenté&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;... (début du sommaire)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul style=&quot;list-style: outside none none ; font-size: 15px&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;a&gt;&lt;span class=&quot;font15&quot; style=&quot;font-weight: bold&quot;&gt;2. ETAT INITIAL DE LA ZONE D’ETUDE&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;span class=&quot;font15&quot; style=&quot;font-weight: bold&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul style=&quot;list-style: none&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;&lt;p&gt;&lt;a&gt;&lt;span class=&quot;font6&quot;&gt;2.1. DEFINITION DE L’AIRE D’ETUDE &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Résumé : L&#39;aire d&#39;étude est constituée d&#39;un plan d&#39;eau, sur une surface de 400m², avec une végétation etc... Lorem p&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Enjeux : Occupation des sols ( 40% ), Artificialisation des sols ( 30% ), Pollution des eaux ( 30% )&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Sentiment : Neutre&lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul style=&quot;list-style: none&quot;&gt;&lt;li style=&quot;font-size: 13px&quot;&gt;&lt;p&gt;&lt;a&gt;&lt;span class=&quot;font6&quot;&gt;2.2. MILIEU PHYSIQUE &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;ul style=&quot;list-style: none&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;a&gt;&lt;span class=&quot;font4&quot;&gt;2.2.1. Contexte climatique &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;ul style=&quot;list-style: none&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;a&gt;&lt;span class=&quot;font4&quot;&gt;2.2.1.1. SUR L’ILE DE LA REUNION&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;ul style=&quot;list-style: none&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;a&gt;&lt;span class=&quot;font4&quot;&gt;2.2.1.2. SUR LA ZONE EN PROJET&lt;/span&gt;&lt;/a&gt;&lt;a&gt;&lt;span class=&quot;font4&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a&gt;&lt;span class=&quot;font4&quot;&gt;2.2.1.3. PROJECTION DU CLIMAT A LA REUNION A L’HORIZON 2100 &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;ul style=&quot;list-style: none&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;a&gt;&lt;span class=&quot;font4&quot;&gt;2.2.2. Qualité de l’air&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;span class=&quot;font4&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;Résumé : La qualité de l&#39;air a été jugée bonne par les agences régionales depuis 2015. Elle est en dessous des seuils de pollutions recommandés, etc...&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;Enjeux : Pollution atmosphérique (70%), Particules fines (15%), Gaz a effet de serre (15%)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Sentiment : Positif&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;a&gt;&lt;span class=&quot;font4&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;2.2.3. Sols et sous-sols &lt;br&gt;&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;Résumé : Le sol est de nature très poreuse, déjà abimé par l&#39;utilisation de pesticides, etc... &lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;Enjeux : Occupation des sols ( 40% ), Artificialisation des sols ( 30% ), Nappes ( 30% )&lt;br&gt;&lt;/div&gt;&lt;/div&gt;Sentiment : Négatif&lt;/div&gt;&lt;/blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(suite du sommaire)...&lt;a&gt;&lt;span class=&quot;font4&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;a&gt;&lt;span class=&quot;font4&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;fillColor=#E6FFCC;align=left;" vertex="1" parent="1">
+          <mxGeometry width="890" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="0gm0C9cwSxgxJO-yXUj9-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/plus-128.png;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="92" y="168" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0gm0C9cwSxgxJO-yXUj9-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/minus-128.png;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0gm0C9cwSxgxJO-yXUj9-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/minus-128.png;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="92" y="269" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0gm0C9cwSxgxJO-yXUj9-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/minus-128.png;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="132" y="323" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0gm0C9cwSxgxJO-yXUj9-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/plus-128.png;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="130" y="536" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0gm0C9cwSxgxJO-yXUj9-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/plus-128.png;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="130" y="700" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0gm0C9cwSxgxJO-yXUj9-20" value="&lt;b&gt;MAQUETTE SUR EXEMPLE&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="670" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-1" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BAlin6TT5M3dXhRm5Jn4-2" target="0gm0C9cwSxgxJO-yXUj9-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="160" as="sourcePoint" />
+            <mxPoint x="60" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-2" value="On déroule le sommaire : le résumé de la section disparait et on accède aux résumé des sous-éléments" style="whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="46" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-3" value="Sommaire non déroulé : on accède au résumé de la sous-section, analyse des enjeux identifiés dans le texte, sentiments, etc..." style="whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="220" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-4" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BAlin6TT5M3dXhRm5Jn4-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="32" y="185" as="sourcePoint" />
+            <mxPoint x="92" y="179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-5" value="Ici déroulé donc on accède aux sous éléments" style="whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="323" width="130" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-6" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="366" as="sourcePoint" />
+            <mxPoint x="92" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-7" value="Ici non déroulé donc on accède au résumé, enjeux, etc.." style="whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="551" width="130" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-8" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BAlin6TT5M3dXhRm5Jn4-7" target="0gm0C9cwSxgxJO-yXUj9-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-126" y="516" as="sourcePoint" />
+            <mxPoint x="-24" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-11" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BAlin6TT5M3dXhRm5Jn4-7" target="0gm0C9cwSxgxJO-yXUj9-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="750" as="sourcePoint" />
+            <mxPoint x="-20" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-12" value="Résumé : etc... ; Enjeux : etc... ; Sentiment : etc..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="400" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-13" value="Résumé : etc... ; Enjeux : etc... ; Sentiment : etc..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-14" value="Résumé : etc... ; Enjeux : etc... ; Sentiment : etc..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="506" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-15" value="Ici on a atteint la granularité la plus fine donc on accède au résumé, enjeux, etc.." style="whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="419.5" width="130" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-16" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BAlin6TT5M3dXhRm5Jn4-15" target="BAlin6TT5M3dXhRm5Jn4-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="466" as="sourcePoint" />
+            <mxPoint x="82" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-17" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BAlin6TT5M3dXhRm5Jn4-15" target="BAlin6TT5M3dXhRm5Jn4-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="475" as="sourcePoint" />
+            <mxPoint x="220" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-18" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BAlin6TT5M3dXhRm5Jn4-15" target="BAlin6TT5M3dXhRm5Jn4-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="475" as="sourcePoint" />
+            <mxPoint x="220" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAlin6TT5M3dXhRm5Jn4-19" value="On peux faire ce sommaire augmenté avec plus ou moins de détail (niveau de détail qui dépend de la granularité ?), des éléments d&#39;informations supplémentaire (autre que enjeux, résumé, sentiment)," style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="740" y="80" width="290" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZOMP0dkI9_u8wvLH4DQT" name="Analyse des enjeux">
+    <mxGraphModel dx="868" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="PaQO9XL9nfgar8EwWLa--0" />
+        <mxCell id="PaQO9XL9nfgar8EwWLa--1" parent="PaQO9XL9nfgar8EwWLa--0" />
+        <mxCell id="PaQO9XL9nfgar8EwWLa--3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="40" y="45" width="720" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="doCoevSiR14-2_Gry88B-0" value="&lt;div&gt;Pollution des &lt;br&gt;&lt;/div&gt;&lt;div&gt;eaux&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.barCallout;dx=60;dy=30;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="60" y="220" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="doCoevSiR14-2_Gry88B-1" value="Pollution des sols" style="html=1;shape=mxgraph.infographic.barCallout;dx=80;dy=30;fillColor=#F2931E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="170" y="220" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="doCoevSiR14-2_Gry88B-2" value="&lt;div&gt;Gaz a effet&lt;/div&gt;&lt;div&gt; de serre&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.barCallout;dx=40;dy=30;fillColor=#AE4132;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="320" y="220" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="doCoevSiR14-2_Gry88B-3" value="Artificialisation des sols" style="html=1;shape=mxgraph.infographic.barCallout;dx=100;dy=30;fillColor=#23445D;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="400" y="220" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="doCoevSiR14-2_Gry88B-4" value="Autre" style="html=1;shape=mxgraph.infographic.barCallout;dx=70;dy=30;fillColor=#12AAB5;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="620" y="220" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="doCoevSiR14-2_Gry88B-5" value="18%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=#10739E;strokeWidth=6;fontSize=16;align=center;fontStyle=1;fillColor=none;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="100" y="315" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="doCoevSiR14-2_Gry88B-6" value="20%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=#F2931E;strokeWidth=6;fontSize=16;align=center;fontStyle=1;fillColor=none;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="225" y="315" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="doCoevSiR14-2_Gry88B-7" value="17%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=#AE4132;strokeWidth=6;fontSize=16;align=center;fontStyle=1;fillColor=none;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="340" y="315" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="doCoevSiR14-2_Gry88B-8" value="35%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=#23445D;strokeWidth=6;fontSize=16;align=center;fontStyle=1;fillColor=none;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="480" y="315" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="doCoevSiR14-2_Gry88B-9" value="10%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=#12AAB5;strokeWidth=6;fontSize=16;align=center;fontStyle=1;fillColor=none;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="670" y="317.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-0" value="&lt;br&gt;&lt;div style=&quot;font-size: 19px&quot; align=&quot;left&quot;&gt;&lt;b&gt;Analyse des enjeux &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="40" y="40" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-2" value="Répartition des enjeux dans l&#39;étude en entrée.&lt;br&gt;Thématique : ENERGIE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="210" y="130" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="szVmI14YxRZ2sVaPwD5k-3" value="Répartition moyenne des enjeux dans la thématique ENERGIE :" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;glass=0;shadow=0;sketch=0;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="PaQO9XL9nfgar8EwWLa--1">
+          <mxGeometry x="205" y="390" width="360" height="61.71" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
